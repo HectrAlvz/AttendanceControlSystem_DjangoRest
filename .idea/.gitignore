@@ -1,0 +1,8 @@
+# Default ignored files
+/../../PracDjangoRest /.idea/shelf/
+/../../PracDjangoRest /.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../PracDjangoRest /.idea/httpRequests/
+# Datasource local storage ignored files
+/../../PracDjangoRest /.idea/dataSources/
+/../../PracDjangoRest /.idea/dataSources.local.xml
